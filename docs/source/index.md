@@ -23,6 +23,8 @@ The docs are written in [MyST](https://myst-parser.readthedocs.io/en/latest/), a
 :maxdepth: 2
 
 getting_started/index
+onboarding
+safety
 inventory
 items/index
 ```

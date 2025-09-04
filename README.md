@@ -2,6 +2,11 @@
 
 This is a documentation repository for NYU's Center for Embodied Intelligence and Robotics. More information on doc page. 
 
+## Doc page (hosted here temporarily): 
+```
+https://bpriviere.github.io/creo_doc/index.html
+```
+
 ## Quick start (Linux)
 
 ```bash

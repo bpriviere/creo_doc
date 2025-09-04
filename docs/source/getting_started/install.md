@@ -1,4 +1,6 @@
-# Installation (Linux)
+# Installation (Linux) 
+
+If you want to contribute documentation, you need to do these steps: 
 
 ## Prerequisites
 - Linux distro with Python 3.10+
